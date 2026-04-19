@@ -1,0 +1,6 @@
+{
+  "name": "Jumia Luxe - Premier E-Commerce",
+  "description": "A feature-rich e-commerce platform inspired by Jumia, built with React, Redux Toolkit, and RTK Query. Features a polished UI, robust search, and seamless checkout experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["ecommerce", "search", "user-auth", "cart", "wishlist"]
+}
